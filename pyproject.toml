@@ -1,0 +1,10 @@
+########################
+# pyproject.toml
+########################
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+select = ["E","F","I","UP","B","SIM","N","C4"]
+ignore = ["E203","E266","E501"]

@@ -1,0 +1,9 @@
+########################
+# .gitignore
+########################
+__pycache__/
+*.pyc
+.venv/
+.streamlit/
+.mypy_cache/
+.pytest_cache/

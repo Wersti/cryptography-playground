@@ -1,0 +1,9 @@
+########################
+# requirements.txt
+########################
+# No crypto libs here — only UI/testing/plotting
+streamlit>=1.35
+matplotlib>=3.8
+pytest>=8.0
+hypothesis>=6.98
+rich>=13.7
